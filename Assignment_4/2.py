@@ -1,2 +1,2 @@
-var = int(input("Enter your name"))
+var = int(input("Enter your age"))
 print(var)

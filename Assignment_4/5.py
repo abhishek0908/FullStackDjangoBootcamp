@@ -1,3 +1,4 @@
-a=int(input("Enter radius of circle"))
+#square if number
+a=int(input("Enter value"))
 b = a*a
 print(b)
